@@ -112,6 +112,12 @@ body {
         font-size: 1.25em;
         padding: 12px 0; } }
 
+@media (max-width: 991px) {
+  .logo{
+    display: none;
+  }
+
+
 header.masthead {
   text-align: center;
   color: white;
